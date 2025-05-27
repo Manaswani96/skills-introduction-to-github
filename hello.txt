@@ -1,0 +1,19 @@
+Git commands:
+1. clone: command for git clone is git clone "link http link"
+2. cd: change directory
+    cd your-folder-name 
+2. list command: ls - it will list all our files and folders, 
+3.  files are 2 types :normal files (ls), hidden files (ls -a)
+4. clear command
+5. git status : gives you status
+6. 4 stages of files:
+   a. untracked   : new file that git doesnt yet track
+   b. modified    : changed
+   c. staged      : file is ready to be commited
+   d. unmodified  : unchanged
+7. add: adds new and changed files:
+          git add file-name
+          git add . (for all files)
+8. commit: is the record of change:
+         git commit -m "message"
+
